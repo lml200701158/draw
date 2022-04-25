@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-25T08:02:03.677Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="QbXeHyXJayjuSAODMdxO" version="17.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-25T08:06:02.153Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="CazNR0LR3q2mxsA-W-j8" version="17.4.6" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1019" dy="574" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -146,15 +146,15 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="I4UFsLT87I4Lk4nzRzzl-35" value="不存在" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#CC0000;strokeWidth=2;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="I4UFsLT87I4Lk4nzRzzl-36" target="I4UFsLT87I4Lk4nzRzzl-39">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="259" y="1408" />
-              <mxPoint x="259" y="1578" />
-            </Array>
+        <mxCell id="I4UFsLT87I4Lk4nzRzzl-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#CC0000;strokeWidth=2;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="I4UFsLT87I4Lk4nzRzzl-36" target="I4UFsLT87I4Lk4nzRzzl-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="I4UFsLT87I4Lk4nzRzzl-42" value="不存在" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="I4UFsLT87I4Lk4nzRzzl-41">
+          <mxGeometry x="-0.2615" y="1" relative="1" as="geometry">
+            <mxPoint x="-9" y="1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="I4UFsLT87I4Lk4nzRzzl-36" value="查询 DB" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=-1;hachureGap=8;fillStyle=cross-hatch;fillColor=#dae8fc;sketch=1;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="I4UFsLT87I4Lk4nzRzzl-36" value="查询 DB" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=-1;hachureGap=8;fillStyle=cross-hatch;fillColor=#ffe6cc;sketch=1;strokeColor=#d79b00;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="109" y="1378" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="I4UFsLT87I4Lk4nzRzzl-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="I4UFsLT87I4Lk4nzRzzl-38" target="I4UFsLT87I4Lk4nzRzzl-39">
@@ -165,6 +165,12 @@
         </mxCell>
         <mxCell id="I4UFsLT87I4Lk4nzRzzl-39" value="返回" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#d5e8d4;sketch=1;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="126.5" y="1558" width="85" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="I4UFsLT87I4Lk4nzRzzl-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#CC0000;strokeWidth=2;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="I4UFsLT87I4Lk4nzRzzl-40" target="I4UFsLT87I4Lk4nzRzzl-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="I4UFsLT87I4Lk4nzRzzl-40" value="缓存空值" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#f8cecc;sketch=1;strokeColor=#b85450;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="268" y="1482" width="85" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
