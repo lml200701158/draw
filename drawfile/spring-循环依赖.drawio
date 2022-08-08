@@ -1,1 +1,85 @@
-<mxfile host="app.diagrams.net" modified="2022-08-08T08:23:04.321Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" version="20.2.3" etag="NLXxGmLzrYj-vukZiJK-" type="github"><diagram id="PN2r7i_gPheXsa0iSZiF">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-08-08T08:31:27.024Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="WSTDcUPwy_tViO-xci2e" version="20.2.3" type="github">
+  <diagram id="PN2r7i_gPheXsa0iSZiF" name="第 1 页">
+    <mxGraphModel dx="1426" dy="769" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Nwbhyj16qawaemDovWx5-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=24;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=1;" edge="1" parent="1" source="Nwbhyj16qawaemDovWx5-2" target="Nwbhyj16qawaemDovWx5-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="489" y="169.89999999999998" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="284" y="129.98" />
+              <mxPoint x="433" y="129.98" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Nwbhyj16qawaemDovWx5-2" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;A&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#ffe6cc;sketch=1;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="239" y="169.89999999999998" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Nwbhyj16qawaemDovWx5-4" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;B&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#dae8fc;sketch=1;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="388" y="169.89999999999998" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Nwbhyj16qawaemDovWx5-7" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;rounded=0;fontSize=24;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=1;" edge="1" parent="1" source="Nwbhyj16qawaemDovWx5-4" target="Nwbhyj16qawaemDovWx5-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="489" y="229.89999999999998" as="sourcePoint" />
+            <mxPoint x="499" y="399.90000000000003" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="359" y="269.90000000000003" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Nwbhyj16qawaemDovWx5-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=24;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=1;" edge="1" parent="1" source="Nwbhyj16qawaemDovWx5-8" target="Nwbhyj16qawaemDovWx5-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="219" y="279.95" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="189" y="199.95" />
+              <mxPoint x="189" y="269.95" />
+              <mxPoint x="104" y="269.95" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Nwbhyj16qawaemDovWx5-8" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;A&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#ffe6cc;sketch=1;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="59" y="169.95" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Nwbhyj16qawaemDovWx5-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=24;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=1;" edge="1" parent="1" source="Nwbhyj16qawaemDovWx5-10" target="Nwbhyj16qawaemDovWx5-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="763" y="169.92999999999998" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="564" y="129.98" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Nwbhyj16qawaemDovWx5-10" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;A&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#ffe6cc;sketch=1;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="519" y="169.92999999999998" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Nwbhyj16qawaemDovWx5-11" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;B&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#dae8fc;sketch=1;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="679" y="99.97999999999999" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Nwbhyj16qawaemDovWx5-12" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;rounded=0;fontSize=24;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Nwbhyj16qawaemDovWx5-13" target="Nwbhyj16qawaemDovWx5-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="763" y="229.92999999999998" as="sourcePoint" />
+            <mxPoint x="773" y="399.93" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="633" y="269.93" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Nwbhyj16qawaemDovWx5-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=24;startArrow=classic;startFill=1;endArrow=none;endFill=0;" edge="1" parent="1" source="Nwbhyj16qawaemDovWx5-13" target="Nwbhyj16qawaemDovWx5-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Nwbhyj16qawaemDovWx5-13" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;C&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#f8cecc;sketch=1;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="679" y="239.92999999999998" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Nwbhyj16qawaemDovWx5-16" value="&lt;span style=&quot;color: rgb(18, 18, 18); font-family: -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Source Han Sans SC&amp;quot;, &amp;quot;Noto Sans CJK SC&amp;quot;, &amp;quot;WenQuanYi Micro Hei&amp;quot;, sans-serif; font-size: 15px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;情况1: 自己依赖自己&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="59" y="310" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Nwbhyj16qawaemDovWx5-17" value="&lt;span style=&quot;color: rgb(18, 18, 18); font-family: -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Source Han Sans SC&amp;quot;, &amp;quot;Noto Sans CJK SC&amp;quot;, &amp;quot;WenQuanYi Micro Hei&amp;quot;, sans-serif; font-size: 15px; background-color: rgb(255, 255, 255);&quot;&gt;情况2:&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: rgb(18, 18, 18); font-family: -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Source Han Sans SC&amp;quot;, &amp;quot;Noto Sans CJK SC&amp;quot;, &amp;quot;WenQuanYi Micro Hei&amp;quot;, sans-serif; font-size: 15px; background-color: rgb(255, 255, 255);&quot;&gt;两个对象之间&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="290" y="310" width="180" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Nwbhyj16qawaemDovWx5-18" value="&lt;span style=&quot;color: rgb(18, 18, 18); font-family: -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Source Han Sans SC&amp;quot;, &amp;quot;Noto Sans CJK SC&amp;quot;, &amp;quot;WenQuanYi Micro Hei&amp;quot;, sans-serif; font-size: 15px; background-color: rgb(255, 255, 255);&quot;&gt;情况3:&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: rgb(18, 18, 18); font-family: -apple-system, &amp;quot;system-ui&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Source Han Sans SC&amp;quot;, &amp;quot;Noto Sans CJK SC&amp;quot;, &amp;quot;WenQuanYi Micro Hei&amp;quot;, sans-serif; font-size: 15px; background-color: rgb(255, 255, 255);&quot;&gt;多个对象之间&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="590" y="310" width="171" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
