@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-08T09:18:24.426Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="eua0FfVeDP1sOmdHn3Sq" version="20.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-08T09:20:31.432Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="6XF8TWhIrVBJSBJdsu2v" version="20.2.3" type="github">
   <diagram id="PN2r7i_gPheXsa0iSZiF" name="第 1 页">
     <mxGraphModel dx="1758" dy="732" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -191,6 +191,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="Nwbhyj16qawaemDovWx5-64" value="&lt;font color=&quot;#333333&quot;&gt;完成注入&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;fontColor=#FF0000;" vertex="1" connectable="0" parent="Nwbhyj16qawaemDovWx5-55">
+          <mxGeometry x="0.003" y="7" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="Nwbhyj16qawaemDovWx5-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;fontSize=14;startArrow=none;startFill=0;endArrow=classic;endFill=1;strokeWidth=1;" edge="1" parent="1" source="Nwbhyj16qawaemDovWx5-56" target="Nwbhyj16qawaemDovWx5-57">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -225,8 +230,25 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Nwbhyj16qawaemDovWx5-63" value="&lt;span style=&quot;font-family: Helvetica; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;&lt;font color=&quot;#ff0000&quot;&gt;&lt;b&gt;这里使用三级缓存中的工厂为A创建一个代理对象&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="454" y="829" width="121.33" height="65.24" as="geometry" />
+        <mxCell id="Nwbhyj16qawaemDovWx5-65" value="完成注入" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;fontColor=#333333;" vertex="1" connectable="0" parent="Nwbhyj16qawaemDovWx5-62">
+          <mxGeometry x="-0.024" y="4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Nwbhyj16qawaemDovWx5-63" value="&lt;span style=&quot;font-family: Helvetica; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;&lt;font color=&quot;#ff0000&quot;&gt;这里使用三级缓存中的工厂为A创建一个代理对象&lt;/font&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="454" y="830" width="121.33" height="65.24" as="geometry" />
+        </mxCell>
+        <mxCell id="Nwbhyj16qawaemDovWx5-66" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font color=&quot;#ff0000&quot;&gt;第一层&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontSize=14;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="-328" y="554.5" width="54" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="Nwbhyj16qawaemDovWx5-67" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font color=&quot;#ff0000&quot;&gt;第二层&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontSize=14;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="-244" y="702" width="54" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="Nwbhyj16qawaemDovWx5-68" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font color=&quot;#ff0000&quot;&gt;第三层&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontSize=14;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="-184" y="844" width="54" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="Nwbhyj16qawaemDovWx5-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;dashed=1;fontSize=14;fontColor=#FF0000;startArrow=none;startFill=0;endArrow=classic;endFill=1;strokeWidth=1;" edge="1" parent="1" source="Nwbhyj16qawaemDovWx5-68" target="Nwbhyj16qawaemDovWx5-68">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
