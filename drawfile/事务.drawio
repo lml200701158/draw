@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-06T10:05:55.307Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="P4z7XYbAZ5v7Mfh0xXvw" version="20.3.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-06T10:09:37.205Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="4UlENHumB1RFOM3sDWXK" version="20.3.6" type="github">
   <diagram id="dmdsObgAOV0-IKqhFlAP" name="第 1 页">
     <mxGraphModel dx="823" dy="542" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -82,7 +82,7 @@
           <mxGeometry x="175.25" y="630" width="163.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1q_-e4AHVBE6PLNsclxO-58" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#333333;fontColor=#5C5C5C;fillColor=none;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="42" y="700" width="430" height="440" as="geometry" />
+          <mxGeometry x="42" y="700" width="430" height="434" as="geometry" />
         </mxCell>
         <mxCell id="1q_-e4AHVBE6PLNsclxO-59" value="&lt;span style=&quot;font-family: Helvetica; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 249, 250); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;&lt;font color=&quot;#ff0000&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Part2：事务执行&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontColor=#5C5C5C;" vertex="1" parent="1">
           <mxGeometry x="217" y="711" width="110" height="30" as="geometry" />
@@ -99,14 +99,14 @@
         <mxCell id="1q_-e4AHVBE6PLNsclxO-77" value="从缓存attributeCache&lt;br&gt;获取事务属性数据" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#fff2cc;sketch=1;strokeColor=#d6b656;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="66.5" y="760" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="1q_-e4AHVBE6PLNsclxO-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#FFF2CC;" edge="1" parent="1" source="1q_-e4AHVBE6PLNsclxO-78" target="1q_-e4AHVBE6PLNsclxO-80">
+        <mxCell id="1q_-e4AHVBE6PLNsclxO-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#FFF2CC;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1q_-e4AHVBE6PLNsclxO-78" target="1q_-e4AHVBE6PLNsclxO-103">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1q_-e4AHVBE6PLNsclxO-78" value="创建事务" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#fff2cc;sketch=1;strokeColor=#d6b656;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="66.5" y="840" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1q_-e4AHVBE6PLNsclxO-80" value="回滚事务" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#fff2cc;sketch=1;strokeColor=#d6b656;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="66.5" y="1050" width="140" height="40" as="geometry" />
+          <mxGeometry x="66.5" y="1044" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1q_-e4AHVBE6PLNsclxO-81" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#333333;fontColor=#5C5C5C;fillColor=none;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="263" y="760" width="158" height="210" as="geometry" />
@@ -133,22 +133,28 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="1q_-e4AHVBE6PLNsclxO-90" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#333333;fontColor=#5C5C5C;fillColor=none;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="263.01" y="990" width="156.99" height="140" as="geometry" />
+          <mxGeometry x="264.01" y="984" width="156.99" height="140" as="geometry" />
         </mxCell>
         <mxCell id="1q_-e4AHVBE6PLNsclxO-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1q_-e4AHVBE6PLNsclxO-92" target="1q_-e4AHVBE6PLNsclxO-94">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1q_-e4AHVBE6PLNsclxO-92" value="根据异常类型&lt;br&gt;判断是否回滚" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#F8ECE9;sketch=1;strokeColor=#FFCCCC;" vertex="1" parent="1">
-          <mxGeometry x="289.52" y="1005" width="104" height="40" as="geometry" />
+          <mxGeometry x="290.52" y="999" width="104" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1q_-e4AHVBE6PLNsclxO-94" value="执行回滚" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#F8ECE9;sketch=1;strokeColor=#FFCCCC;" vertex="1" parent="1">
-          <mxGeometry x="290.52" y="1075" width="103" height="40" as="geometry" />
+          <mxGeometry x="291.52" y="1069" width="103" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1q_-e4AHVBE6PLNsclxO-102" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;strokeColor=none;fillColor=#FFE599;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="217" y="1069.5" as="sourcePoint" />
-            <mxPoint x="257" y="1069.5" as="targetPoint" />
+            <mxPoint x="218" y="1063.5" as="sourcePoint" />
+            <mxPoint x="258" y="1063.5" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="1q_-e4AHVBE6PLNsclxO-104" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#FFF2CC;" edge="1" parent="1" source="1q_-e4AHVBE6PLNsclxO-103" target="1q_-e4AHVBE6PLNsclxO-80">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1q_-e4AHVBE6PLNsclxO-103" value="执行业务逻辑" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#fff2cc;sketch=1;strokeColor=#d6b656;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="66.5" y="939" width="140" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
